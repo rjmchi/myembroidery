@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap">
 
         <!-- Scripts -->
-        <link rel="stylesheet" href="view-source:https://myembroidery-production.up.railway.app/build/assets/app.70259fed.css">
+        <link rel="stylesheet" href="https://myembroidery-production.up.railway.app/build/assets/app.70259fed.css">
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body>
